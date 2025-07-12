@@ -29,7 +29,7 @@ not, with, async, elif, if, or, and yield.
   I'll breakdown every keyword to how it used and what it means.
   ------------
 
-  ### Fales 
+  ### False
   is one of the two Boolean values(George Boole a mathematician that's named after it, which is a data type that can be either true or false) which literally means "not true." Python treats it as the opposite of True, and it behaves like the number 0 in calcultaions.
   Used in conditional staements and more.
   ```python
