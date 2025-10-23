@@ -28,7 +28,7 @@ not, with, async, elif, if, or, and yield.
  Meaning, you can't use these words as variables as to the fact that they are words part of the pythons language's structure.
   I'll breakdown every keyword to how it used and what it means.
   ------------
-
+  
   ### False
   is one of the two Boolean values(George Boole a mathematician that's named after it, which is a data type that can be either true or false) which literally means "not true." Python treats it as the opposite of True, and it behaves like the number 0 in calcultaions.
   Used in conditional staements and more.
